@@ -1,0 +1,160 @@
+{
+    "images": [
+        {
+            "imgPath": "img/vibes/title.jpeg",
+            "imgLocation": "Old Minecraft Title Screen",
+            "biome": "Nostalgic Plains"
+        },
+          {
+            "imgPath": "img/vibes/village.png",
+            "imgLocation": "Village",
+            "biome": "Plains"
+        },
+        {
+            "imgPath": "img/vibes/trader-mountain.jpeg",
+            "biome": "Windswept Hills"
+        },
+        {
+            "imgPath": "img/vibes/sunflower.png",
+            "biome": "Sunflower Fields"
+        },
+        {
+            "imgPath": "img/vibes/plains.png",
+             "imgLocation": "Distant Village",
+            "biome": "Plains"
+        },
+        {
+            "imgPath": "img/vibes/fields.png",
+            "biome": "Flower Forest"
+        },
+        {
+            "imgPath": "img/vibes/coral.png",
+            "imgLocation": "Warm Ocean Shipwreck",
+            "biome": "Coral Reef"
+        },
+        {
+            "imgPath": "img/vibes/beach-water.png",
+            "biome": "Beach"
+        },
+        {
+            "imgPath": "img/vibes/magic-forest.jpeg",
+            "biome": "Dark Oak Forest"
+            
+        },
+        {
+            "imgPath": "img/vibes/taiga.png",
+            "biome": "Taiga"
+        },
+ {
+            "imgPath": "img/vibes/birch-forest.png",
+            "biome": "Birch Forest"
+        },
+
+
+ {
+            "imgPath": "img/vibes/swamp.png",
+            "biome": "Swamp"
+        },
+{
+            "imgPath": "img/vibes/eroded-bad.png",
+            "biome": "Eroded Badlands"
+        },
+ {
+            "imgPath": "img/vibes/plateau-bad.png",
+            "biome": "Badlands Plateau"
+        },
+
+
+ {
+            "imgPath": "img/vibes/river.png",
+            "biome": "River"
+        },
+
+
+ {
+            "imgPath": "img/vibes/ocean.png",
+           "imgLocation": "Ocean Monument",
+           "biome": "Ocean"
+        },
+        {
+            "imgPath": "img/vibes/lush.jpeg",
+            "biome": "Lush Caves"
+        },
+        {
+            "imgPath": "img/vibes/desert.png",
+            "imgLocation": "Desert Temple",
+            "biome": "Desert"
+        },
+        {
+            "imgPath": "img/vibes/jungle-edge.png",
+            "biome": "Jungle Edge"
+        },
+        {
+            "imgPath": "img/vibes/jungle.png",
+            "biome": "Jungle"
+        },
+        {
+            "imgPath": "img/vibes/bamboo.png",
+            "biome": "Bamboo Forest"
+        },
+         {
+            "imgPath": "img/vibes/frozen-river.png",
+            "biome": "Frozen River"
+        },
+
+
+ {
+            "imgPath": "img/vibes/frozen-ocean.png",
+            "biome": "Deep Frozen Ocean"
+        },
+ {
+            "imgPath": "img/vibes/ice-spikes.png",
+            "biome": "Ice Spikes"
+        },
+
+        {
+            "imgPath": "img/vibes/mushroom-fields.png",
+            "imgLocation": "Mushroom Island",
+            "biome": "Mushroom Fields"
+        },
+        {
+            "imgPath": "img/vibes/warped-forest.png",
+            "imgLocation": "Nether",
+            "biome": "Warped Forest"
+        },
+        {
+            "imgPath": "img/vibes/crimson-forest.png",
+            "imgLocation": "Nether",
+            "biome": "Crimson Forest"
+            
+        },
+         {
+            "imgPath": "img/vibes/nether-wastes.png",
+           "imgLocation": "Nether Fortress",
+           "biome": "Nether Wastes"
+        },
+ {
+            "imgPath": "img/vibes/soul-valley.png",
+           "imgLocation": "Nether",
+           "biome": "Soul Sand Valley"
+        },
+ {
+            "imgPath": "img/vibes/basalt-delta.png",
+           "imgLocation": "Nether",
+           "biome": "Basalt Delta"
+        }
+         
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+}
